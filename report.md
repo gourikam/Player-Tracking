@@ -1,4 +1,4 @@
-# 📄 Player Re-Identification – Project Report
+# Player Re-Identification – Project Report
 
 ## Approach and Methodology
 
