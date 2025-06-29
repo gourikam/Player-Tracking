@@ -34,7 +34,7 @@ To achieve this:
 
 ---
 
-## 🔧 What Remains / Next Steps
+## What Remains / Next Steps
 
 If I had more time or resources:
 - I would fine-tune the Deep SORT embedder or try **stronger re-ID embeddings** to reduce ID switching.
