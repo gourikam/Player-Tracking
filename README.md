@@ -29,9 +29,9 @@ pip install -r requirements.txt
 ```
 
 ### 4. Download the YOLOv11 weights
-The trained model file 'best.pt' is too large for GitHub.
-🔗 Download it from here: https://drive.google.com/file/d/1NiyvLnjGgroRQNX-yhcn7yH4iDfcou-b/view?usp=drive_link
-Place it in the root of the project directory.
+- The trained model file 'best.pt' is too large for GitHub.
+- Download it from here: https://drive.google.com/file/d/1NiyvLnjGgroRQNX-yhcn7yH4iDfcou-b/view?usp=drive_link
+- Place it in the root of the project directory.
 
 ### 5. Run the code
 ```bash
@@ -39,7 +39,7 @@ python player_tracking.py
 ```
 
 ### 6. Output
-Players are tracked with consistent IDs.
-Team colors are indicated via bounding box (🔴 Red / 🔵 Blue).
-Referees are excluded from tracking.
-Output video is saved as player_tracking.mp4.
+- Players are tracked with consistent IDs.
+- Team colors are indicated via bounding box (🔴 Red / 🔵 Blue).
+- Referees are excluded from tracking.
+- Output video is saved as player_tracking.mp4.
